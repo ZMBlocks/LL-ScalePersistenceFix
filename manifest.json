@@ -2,5 +2,6 @@
     "name": "${modName}",
     "entry": "${modFile}",
     "version": "${modVersion}",
-    "type": "native"
+    "type": "native",
+    "author": "啥也不会的子沐呀"
 }
